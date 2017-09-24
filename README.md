@@ -8,7 +8,7 @@ A small, Gulp-based project starter for creating front end development projects.
 3. Run `npm install`.
 4. After that's done run `gulp build`. 
 5. Run `gulp` to run browsersync.
-6. Run `git remote rm`
+6. Run `git remote rm origin`
 
 #advanced
 
